@@ -1,0 +1,171 @@
+<!DOCTYPE.html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta title="Feira de Livros">
+    </head>
+    <body>
+            <p style="color:green;font-style:italic;">Livros Corporações Apresenta</p>
+                <hr>
+        <header>
+            <hgroup>
+                <h1 style="color:#223355;text-align:center">Feira de Livros</h1>
+                <!--Barra de navegação-->
+                <nav class="w3-bar w3-orange">
+                    <link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
+                    <a href="#home" class="w3-button w3-bar-item" style="color:green">Início</a>
+                    <a href="#space" class="w3-button w3-bar-item">Espaço</a>
+                    <a href="#request" class="w3-button w3-bar-item">Solicitar Feira</a>
+                    <a href="#programs" class="w3-button w3-bar-item">Programação</a>
+                    <a href="#highlights" class="w3-button w3-bar-item">Destaques</a>
+                    <a href="#gallery" class="w3-button w3-bar-item">Galeria</a>
+                    <a href="#contact" class="w3-button w3-bar-item">Contato</a>
+                </nav>    
+            <figure>
+                <img src="https://images.pexels.com/photos/375903/pexels-photo-375903.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" alt="Feira de Livros" width=450px; height=300px>
+                <img src="https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg?h=1000&w=1500&fit=crop&mark=https%3A%2F%2Fassets.imgix.net%2F~text%3Ftxtclr%3Dfff%26txt%3DFree+Book+Photos%26txtsize%3D120%26txtpad%3D20%26bg%3D80000000%26txtfont%3DAvenir-Heavy%26txtalign%3Dcenter%26w%3D1300&markalign=center%2Cmiddle&txt=pexels.com&txtalign=center&txtsize=60&txtclr=eeffffff&txtfont=Avenir-Heavy&txtshad=10" alt="Feira de Livros" width=450px; height=300px>
+                <img src="https://images.pexels.com/photos/256431/pexels-photo-256431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Feira de Livros" width=450px; height=300px>
+            </figure>            
+        </header>
+        <hgroup>
+            <h2 style="color:#23fced;text-align:center">A melhor Feira de Livros ao seu alcance!</h2>
+            <p style="text-align:center">A Feira de Livros é o local ideal para os amantes da leitura! <br> 
+            Aqui você poderá encontrar amigos, participar de conversas, interagir com autores, há também as atividades<br>
+            e oficinas distribuídas no espaço, entre outras.</p>
+            <p style="text-align:center">Não perca a oportunidade de enriquecer seu amor pelos livros e experienciar <br>
+            momentos especiais conosco!<br>
+            <span><b> Venha conferir!</b></span>
+            </p>
+        </hgroup>
+        <hgroup>    
+            <h3 style="color:#23fced;text-align:left"> Autores e seus Livros</h3>
+                <div>
+                    <span style="font-style:oblique">"Enfrentando a Tempestade"</span>- de Antônio Fernandes.<br>
+                </div>
+                <img src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Antônio Fernandes" width=250px; height=300px>
+                <div>
+                    <span style="font-style:oblique">"Os 7 Pecados da Primeira Impressão"</span>- de Tomás Barros.<br>
+                    <img src="https://media.istockphoto.com/photos/mature-mixed-race-man-smiling-picture-id825083248?k=6&m=825083248&s=612x612&w=0&h=5INx9_oQUM2euqhKmMWdpbLHu2ET2AcZ8cAj1_IdxWk=" alt="Tomás Barros" width=250px; height=300px>   
+                </div>   
+                <br> 
+                <div>
+                    <span style="font-style:oblique">"Como lidar com as fases do relacionamento"</span>- de Tânia Correia.<br>
+                    <img src="https://images.unsplash.com/photo-1566806813874-2fd6505ef0ec?ixlib=rb-1.2.1&w=1000&q=80" alt="Tânia Correia" width=250px; height=300px> 
+                </div> 
+                <br>      
+                <div>
+                    <span style="font-style:oblique">"O remorso"</span>- de Giovana Araújo.<br>
+                    <img src="https://www.southmoonunder.com/on/demandware.static/-/Sites-southmoonunder-master/default/dw36bb29dc/images/207462/207462-TURQ-[FREE%20PEOPLE]-a-[front]-tn.jpg" alt="Giovana Araújo" width=250px; height=300px>
+                </div>
+                <br>
+                <div>
+                    <span style="font-style:oblique">"Terras da Imaginação"</span>- de Gabriela Oliveira.<br>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vduf-Uh6kKifjHHBsW7_7IeQm63S2dQBXpPydC12GlteFZAV" alt="Gabriela Oliveira" widh=250px; height=300px>
+                </div>
+            <a href="#/Livros-e-autores.html">Ver mais livros e autores</a>
+        </hgroup>
+            <thread>    
+                <h5>Promoção de Livros*</h5>
+                <table bgcolor="#23fced" style="border 1px solid #black;">
+                    <th>Livros</th>
+                    <th>1 Livro</th>
+                    <th>2 Livros</th>
+                    <th>3 Livros</th>
+                    <th>4 Livros</th>
+                    <th>5 Livros</th>
+                <tbody>
+                    <tr style="border:1px solid #black;border-collapse:collapse">
+                        <th>Livros de capa dura</th>
+                        <td>R$10,00</td>
+                        <td>R$18,00</td>
+                        <td>R$26,00</td>
+                        <td>R$33,00</td>
+                        <td>R$40,00</td>
+                    </tr>    
+                    <tr style="border:1px solid black;">    
+                        <th>Livros de Bolso</th>
+                        <td>R$8,00</td>
+                        <td>R$15,00</td>
+                        <td>R$22,50</td>
+                        <td>R$29,00</td>
+                        <td>R$34,00</td>
+                    </tr>    
+                    <tr style="border:1px solid #black;"> 
+                        <th>Compêndios</th>
+                        <td>R$12,00</td>
+                        <td>R$23,00</td>
+                        <td>R$30,00</td>
+                        <td>R$40,00</td>
+                        <td>R$48,00</td>
+                    </tr>    
+                    <tr style="border:1px solid #black"> 
+                        <th>E-book</th>
+                        <td>R$6,00</td>
+                        <td>R$10,50</td>
+                        <td>R$15,00</td>
+                        <td>R$18,50</td>
+                        <td>R$21,00</td>
+                    </tr>
+                    <tr style="border=1px solid #black">
+                        <th>Cartilha</th>
+                        <td>R$11,00</td>
+                        <td>R$20,50</td>
+                        <td>R$30,00</td>
+                        <td>R$39,00</td>
+                        <td>R$47,00</td>        
+                    </tr>           
+                </tbody>
+            </thread>        
+            </table>
+            <h3 style="color:#23fced"> Atividades e Oficinas</h3>
+            <figure>
+                <img src="https://www.malverncube.com/wp-content/uploads/2019/04/Book-Group.jpg" width="400" height="250"
+            </figure>
+            <ul>
+                <li>"Book Workshop"</li>
+                <li>"Livros e Lanchonetes"</li>
+                <li>Biblioteca Digital</li>
+                <li>Autógrafo dos Autores</li>
+                <li>Encontro de Educadores</li>
+                <li>"Muro dos ícones"</li>
+            </ul>
+            <a href="#/Atividades-e-Oficinas.html">Ver programa completo</a>
+        <hgroup>
+        <h3>Vídeo: O hábito da leitura</h3>
+            <iframe width="420" height="350" src="https://www.youtube.com/embed/hXgNsFv1U2I">
+            </iframe>
+        <br>
+        <a href="https://mundoeducacao.bol.uol.com.br/educacao/a-importancia-habito-ler.html">Hábito de Ler</a>
+        <br> 
+        <a href="https://brasilescola.uol.com.br/educacao/habito-leitura.html">Hábito da Leitura</a>
+        <h2 style="color:#23fced">Galeria</h2>    
+        <figure>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbWtOF4YUW3wdi4uyZbiIlz7pUU1t0CagfPIChJTip3KunF0be" alt="Feira de Livros" width=425px; height=300px>
+                <img src="https://cdn.pixabay.com/photo/2015/03/22/12/19/child-684580_960_720.jpg" alt="Feira de Livros" width=425px; height=300px>
+                <img src="https://freestocks.org/fs/wp-content/uploads/2015/10/reading-1000x667.jpg" alt="Feira de Livros" width=425px; height=300px><a href="#/Galeria.html">Ver tudo</a>
+            </figure>  
+        </hgroup>
+        <p>Insira seu e-mail para receber notícias da Feira do Livro!</p>   
+        <form>
+            <input type="email" name="email" placeholder="E-mail"><br>
+            <button type="submit" value="submit">Enviar</button>
+        </form>
+        <p>*verifique se os livros fazem parte da promoção</p>
+        <hr>
+        <footer>
+            <h4>Contato</h4>
+            <h3>Feira do Livro</h3>
+            <p>Av.De Algum Lugar, 00, Bairro, Rio de Janeiro, Cep:20360-256</p>
+            <p>e-mail : feiradolivro@gmail.com</p>
+            <p>telefone: (21)92596-2175 (21)3260-7653</p>
+                <nav>
+                    <a href="/https://pt-br.facebook.com/">Facebook</a>
+                    <a href="/https://twitter.com/">Twitter</a>
+                    <a href="https://youtube.com/">Youtube</a>
+                    <a href="/https://info.html/">Mais Informações</a>
+                </nav>
+        </footer><hr> 
+        <p>© 2019 - Livros Corporações  | <a href="https://faeterj-rio.edu.br">FAETERJ-RIO</a></p>  
+    </body>
+</html>   
